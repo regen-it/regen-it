@@ -8,7 +8,10 @@ Some features below:
 - [Get-LicensingIssueReport](https://github.com/regen-it/M365/blob/main/Entra/GenerateLicensingIssueReport.ps1)
 
 ### Exchange Online
-- [Get-AllMailboxPermission](https://github.com/regen-it/M365/blob/main/ExchangeOnline/Get-AllMailboxPermissions.ps1)
+[Get-AllMailboxPermission](https://github.com/regen-it/M365/blob/main/ExchangeOnline/Get-AllMailboxPermissions.ps1)
+
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/f4cb5f41-73ef-4aab-98ef-5f0e2921d87f">
+
 
 ### General
 - [Resolve-Microsoft365LicenseGuid](https://github.com/regen-it/M365/blob/main/General/Resolve-Microsoft365LicenseGuid.ps1)
