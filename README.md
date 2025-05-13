@@ -15,9 +15,3 @@ Some features below:
 
 ### General
 - [Resolve-Microsoft365LicenseGuid](https://github.com/regen-it/M365/blob/main/General/Resolve-Microsoft365LicenseGuid.ps1)
-
-
-<h3 align="left">Things I use</h3>
-<p align="left"> <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="pwsh" width="20" height="20"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="20" height="20"/> </a> 
-<a href="https://www.usebruno.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/usebruno/bruno/blob/main/assets/images/logo-transparent.png" alt="bruno" width="20" height="20"/> </a> </p>
